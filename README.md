@@ -11,7 +11,7 @@ Important: Redis and Db service names should be "**redis**" and "**db**"
 
 Steps:
 
-1 git clone 
+1 git clone https://github.com/V-vk-404/K8s-Voting-App-Project.git
 
 2 cd **K8s-Voting-App-Project**
 
